@@ -1,3 +1,5 @@
+# Assignment : # Print the Triangle pattern
+
 def triangle(n):
     for i in range(1, n + 1):
         # Print leading spaces
